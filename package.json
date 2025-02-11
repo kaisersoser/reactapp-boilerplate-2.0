@@ -49,7 +49,7 @@
     "style-loader": "^1.1.1",
     "uuid": "3.1.0",
     "validator": "^12.1.0",
-    "webpack": "^4.41.2",
+    "webpack": "^5.97.1",
     "webpack-cli": "^3.3.10",
     "yarn": "^1.22.1"
   },
